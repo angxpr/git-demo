@@ -2,6 +2,4 @@
 
 ##Few Text
 
-Some random text
-
-Added text later
+This is further edit..
